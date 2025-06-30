@@ -23,6 +23,7 @@
 
 /db*/
 /sql*/
+/mssql*/
 /pgsql*/
 /mysql*/
 /mariadb*/
