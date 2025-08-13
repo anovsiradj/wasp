@@ -2,11 +2,11 @@
 
 ### persiapan
 
-- copas dari `./php.ini.stub` jadi `./php.ini`
 - unduh setiap versi yang dibutuhkan
-- ekstrak ke `./` dengan penamaan folder `php` atau dengan penamaan menggunakan prefix `php` (contoh `php5` atau `php7`).
-- copas `/php/php.ini` dari `/php/php.ini-development` lalu atur setiap versinya
+- ekstrak ke `./` dengan penamaan folder `php` atau dengan tambahan suffix versinya (contoh `php84`).
+- copas dari `/php/php.ini-development` jadi `/php/php.ini`  lalu atur setiap versinya
 - hapus komen `extension_dir` setiap versinya
+- copas dari `./php.ini.stub` jadi `./php.ini`
 
 ### kebutuhan extension
 
@@ -33,7 +33,8 @@
 
 - pada `./php.ini` penulisan konfigurasi, jangan pake spasi sebelum dan sesudah "=" karena tidak jalan di php5.
 - pada `./php.ini` awalan file jangan kasih komen, entah kenapa jadi gak jalan.
-- khusus php5 untuk windows 10 ke atas, perlu pasang `winget install -e --id Microsoft.VCRedist.2012.x64`
+- khusus php5 untuk windows 10 keatas, perlu pasang `winget install -e --id Microsoft.VCRedist.2012.x64`
+- khusus php8 keatas atau windows 11 keatas, perlu pasang `winget install -e --id Microsoft.VCRedist.2015+.x64`
 
 ### referensi
 

@@ -21,4 +21,4 @@ yang bertujuan sebagai pembelajaran untuk saya dan (semoga) untuk kamu juga.
 
 ##### kekurangan
 
-- semua dilakukan secara manual (tapi xampp dkk juga manual sih)
+- semua dilakukan secara manual (tapi xampp/wampp/laragon dkk juga manual sih)
