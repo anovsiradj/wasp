@@ -2,9 +2,10 @@
 
 ### persiapan
 
-- unduh setiap versi yang dibutuhkan
+- akses `https://windows.php.net/download/`
+- unduh binary setiap versi yang dibutuhkan, pilih yang NTS (non-thread-safe).
 - ekstrak ke `./` dengan penamaan folder `php` atau dengan tambahan suffix versinya (contoh `php84`).
-- copas dari `/php/php.ini-development` jadi `/php/php.ini`  lalu atur setiap versinya
+- copas dari `./php/php.ini-development` jadi `./php/php.ini`  lalu atur setiap versinya
 - hapus komen `extension_dir` setiap versinya
 - copas dari `./php.ini.stub` jadi `./php.ini`
 
@@ -38,7 +39,6 @@
 
 ### referensi
 
-- https://windows.php.net/download/
 - https://windows.php.net/downloads/releases/archives/
 - https://museum.php.net/
 - https://mlocati.github.io/articles/php-windows-imagick.html
