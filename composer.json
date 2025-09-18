@@ -1,0 +1,16 @@
+{
+    "name": "anovsiradj/waap",
+    "type": "server",
+    "require": {
+        "php": ">=8.4",
+        "symfony/var-dumper": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anovsiradj",
+            "email": "anov.siradj22@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
