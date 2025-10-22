@@ -23,12 +23,13 @@
 
 /db*/
 /sql*/
-/mssql*/
-/pgsql*/
 /mysql*/
 /mariadb*/
-/couchdb*/
+/pgsql*/
 /postgresql*/
+/mssql*/
+/sqlsrv*/
+/couchdb*/
 
 /npm/
 /node/
