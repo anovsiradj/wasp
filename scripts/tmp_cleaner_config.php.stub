@@ -1,0 +1,9 @@
+<?php
+
+return [
+	'excludes' => [
+		'adminer.key',
+	],
+	'created_month_at' => 5,
+	'updated_month_at' => 3,
+];
