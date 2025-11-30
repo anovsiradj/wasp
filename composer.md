@@ -3,10 +3,10 @@
 ### konfigurasi
 
 ```txt
-COMPOSER_HOME=C:\waap\composer
-COMPOSER_CAFILE=C:\waap\cacert.pem
-COMPOSER_BIN_DIR=C:\waap\bin
-COMPOSER_CACHE_DIR=C:\waap\composer\cache
+COMPOSER_HOME=C:\wasp\composer
+COMPOSER_CAFILE=C:\wasp\cacert.pem
+COMPOSER_BIN_DIR=C:\wasp\bin
+COMPOSER_CACHE_DIR=C:\wasp\composer\cache
 ```
 
 ### instalasi

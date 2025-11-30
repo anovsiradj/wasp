@@ -1,5 +1,5 @@
 {
-    "name": "anovsiradj/waap",
+    "name": "anovsiradj/wasp",
     "type": "server",
     "require": {
         "php": ">=8.4",

@@ -8,7 +8,7 @@
 ### eksekusi
 
 ```cmd
-cd C:\waap\nginx\
+cd C:\wasp\nginx\
 
 .\nginx.exe -v
 .\nginx.exe

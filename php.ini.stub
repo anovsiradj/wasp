@@ -17,7 +17,7 @@ max_execution_time=360
 date.timezone="Asia/Jakarta"
 
 [curl]
-curl.cainfo="C:/waap/cacert.pem"
+curl.cainfo="C:/wasp/cacert.pem"
 
 [openssl]
-openssl.cafile="C:/waap/cacert.pem"
+openssl.cafile="C:/wasp/cacert.pem"

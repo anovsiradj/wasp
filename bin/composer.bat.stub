@@ -1,9 +1,9 @@
 @echo off
-"C:\waap\php\php.exe" "C:\waap\composer\composer.phar" %*
+"C:\wasp\php\php.exe" "C:\wasp\composer\composer.phar" %*
 
 :: khusus php71 kebawah harus pake composer v2.2 (LTS)
 :: https://getcomposer.org/download/latest-2.2.x/composer.phar
 :: contoh (php5composer.bat): <<<CMD
 :: @echo off
-:: C:\waap\php5\php.exe C:\waap\composer\composer-2.2.x-lts.phar %*
+:: C:\wasp\php5\php.exe C:\wasp\composer\composer-2.2.x-lts.phar %*
 :: CMD;
