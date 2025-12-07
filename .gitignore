@@ -41,6 +41,8 @@
 /php8*/
 /php.ini
 
+/webp/
+
 # The Mozilla CA certificate store in PEM format
 /cacert.pem
 
