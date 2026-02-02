@@ -35,6 +35,20 @@ yang bisa dicek lewat `phpinfo()`.
 - `pdo_sqlite`
 - `zip`
 
+### cli
+
+file supaya custom php.ini bisa di load saat exsekusi lewat cli, lakukan hal berikut.
+
+(bash) ...
+
+(pwsh)
+```cmd
+$env:PHP_INI_SCAN_DIR="C:\wasp\php.ini"
+```
+
+(cmd) ...
+
+
 ### catatan
 
 - pada `./php.ini` penulisan konfigurasi, jangan pake spasi sebelum dan sesudah "=" karena tidak jalan di php5.
