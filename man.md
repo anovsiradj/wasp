@@ -1,7 +1,7 @@
 
 # Manager
 
-## `./php-man.sh`
+## `./man-php.sh`
 
 ```sh
 # powershell
@@ -10,5 +10,5 @@
 # bash
 cd /c/wasp
 
-./php-man.sh
+./man-php.sh
 ```
