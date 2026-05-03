@@ -2,7 +2,7 @@
     "name": "anovsiradj/wasp",
     "type": "server",
     "require": {
-        "php": ">=8.4",
+        "php": ">=8.5",
         "symfony/var-dumper": "@stable"
     },
     "license": "MIT",

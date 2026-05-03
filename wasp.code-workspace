@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*/*.exe": true,
+			"**/*.zip": true,
+			"**/*/*.dll": true,
+			"**/bin/git*": true,
+			"**/php*/*.txt": true,
+			"**/php*/*.bat": true,
+			"**/php*/*.phar": true,
+			"**/php*/dev": true,
+			"**/php*/ext": true,
+			"**/php*/lib": true,
+			"**/php*/extras": true,
+			"**/webp*": true,
+			"**/pgsql": true,
+			"**/mssql": true,
+			"**/sqlite": true,
+			"**/mariadb": true,
+			"**/composer": true,
+			"**/postgresql": true,
+			"**/npm*": true,
+			"**/node*": true,
+			"**/nginx*": true,
+			"**/httpd/*.txt": true,
+			"**/httpd/bin": true,
+			"**/httpd/cgi-bin": true,
+			"**/httpd/error": true,
+			"**/httpd/htdocs": true,
+			"**/httpd/icons": true,
+			"**/httpd/include": true,
+			"**/httpd/lib": true,
+			"**/httpd/logs": true,
+			"**/httpd/manual": true,
+			"**/httpd/modules": true,
+		}
+	}
+}
