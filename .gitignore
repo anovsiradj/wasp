@@ -44,6 +44,9 @@
 
 /webp/
 
+/vendor/
+/tmp/
+
 # The Mozilla CA certificate store in PEM format
 /cacert.pem
 
@@ -55,7 +58,5 @@
 *.gz
 *.tar.gz
 *.phar
-
-/vendor/
 
 /*.sublime*

@@ -1,16 +1,15 @@
 
 # binary installer
 
-for php,httpd,nginx,caddy.
+for node,httpd,nginx,caddy.
 
 the script will do download + extract (and maybe do some config).
 
-the usage will be like:
+the usage will be something like:
 
 ```
-./install php version=8.5 folder=php85
-./install node version=24 folder=node24
-./install httpd
-./install nginx
-./install caddy
+./node-man.sh version=24 folder=node24
+./httpd-man.sh
+./nginx-man.sh
+./caddy-man.sh
 ```
