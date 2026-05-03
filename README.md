@@ -2,7 +2,7 @@
 # **Windows Any Server PHP (WASP)**
 
 Windows Any Server PHP (WASP),
-pasang server dari nol tanpa XAMPP, EasyPHP, WampServer, Laragon di Windows.
+pasang server dari nol di Windows tanpa XAMPP,EasyPHP,WampServer,Laragon,dst.
 bertujuan sebagai pembelajaran untuk saya dan (semoga) untuk kamu juga.
 
 - [php.md](./php.md)

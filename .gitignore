@@ -30,6 +30,7 @@
 /mssql*/
 /sqlsrv*/
 /couchdb*/
+/mongodb*/
 
 /npm/
 /node/
