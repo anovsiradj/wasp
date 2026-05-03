@@ -1,5 +1,5 @@
 
-# binary installer
+# manager
 
 for node,httpd,nginx,caddy.
 
@@ -8,8 +8,8 @@ the script will do download + extract (and maybe do some config).
 the usage will be something like:
 
 ```
-./node-man.sh version=24 folder=node24
-./httpd-man.sh
-./nginx-man.sh
-./caddy-man.sh
+./man-node.sh version=24 folder=node24
+./man-httpd.sh
+./man-nginx.sh
+./man-caddy.sh
 ```
