@@ -1,15 +1,20 @@
-# apache binary dir
-/httpd/bin
-/httpd/cgi-bin
+.old*
+.new*
+
+# httpd
 #/httpd/conf
-/httpd/error
-/httpd/htdocs
-/httpd/icons
-/httpd/include
-/httpd/lib
-/httpd/logs
-/httpd/manual
-/httpd/modules
+# dirs
+/httpd/bin/
+/httpd/cgi-bin/
+/httpd/error/
+/httpd/htdocs/
+/httpd/icons/
+/httpd/include/
+/httpd/lib/
+/httpd/logs/
+/httpd/manual/
+/httpd/modules/
+# files
 /httpd/ABOUT_APACHE.txt
 /httpd/CHANGES.txt
 /httpd/INSTALL.txt

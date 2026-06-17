@@ -4,11 +4,17 @@
 /httpd_hosts.conf
 
 # dist dirs
+/misc
+/certs
 /extra
+/private
 /original
 
 # dist files
-/charset.conv
 /magic
 /mime.types
 /openssl.cnf
+/charset.conv
+
+/openssl.*
+/ct_log_list.cnf*

@@ -63,7 +63,14 @@ C:\wasp\httpd\bin\httpd.exe -k stop -n "wasp_httpd"
 
 (untuk penamaan service `wasp_httpd` bisa disesuaikan kasuka)
 
-### pustaka
+## pemutakhiran
+
+- download ulang zip terbaru
+- hapus folder yang diignore
+- copas folder yang diignore
+- disesuaikan `./httpd/conf/httpd.conf`
+
+## pustaka
 
 penyedia binary disarankan menggunakan apachelounge, dikarenakan apachehaus sedang hiatus.
 
