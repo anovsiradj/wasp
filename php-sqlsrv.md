@@ -7,4 +7,11 @@
 - pilih semua `php_sqlsrv_*_nts_*.dll` dan `php_pdo_sqlsrv_*_nts_*.dll`,
 sesuai versi yang digunakan, lalu copas folder `./php/ext`.
 
+pada `php.ini` tambah
+
+```ini
+extension=ext_name_tanpa_ext
+extension=ext_name_tanpa_ext
+```
+
 [main]: https://learn.microsoft.com/en-us/sql/connect/php/download-drivers-php-sql-server?view=sql-server-2016
