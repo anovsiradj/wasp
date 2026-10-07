@@ -64,4 +64,5 @@
 *.tar.gz
 *.phar
 
-/*.sublime*
+/*.sublime-workspace
+.aider*
