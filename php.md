@@ -3,7 +3,7 @@
 copas dari `./php.ini.stub` jadi `./php.ini`,
 itu digunakan sebagai shared-config untuk semua versi.
 
-file `./php.ini` akan dimuat oleh httpd:fcgi ketika server dijalankan,
+file `./php.ini` akan diload oleh httpd:fcgi ketika server dijalankan,
 yang bisa dicek lewat `phpinfo()`.
 
 ### persiapan
