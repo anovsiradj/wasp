@@ -2,27 +2,27 @@
 https://wiki.debian.org/AdditionalPHPVersions
 
 ```sh
-php8.5 -m
-php8.5 --ini
+php8.4 -m
+php8.4 --ini
 
-sudo apt install php8.5-bcmath
-sudo apt install php8.5-common
-sudo apt install php8.5-curl
-sudo apt install php8.5-exif
-sudo apt install php8.5-gd
-sudo apt install php8.5-intl
-sudo apt install php8.5-mysql
-sudo apt install php8.5-pgsql
-sudo apt install php8.5-phar
-sudo apt install php8.5-sqlite3
-sudo apt install php8.5-xml
-sudo apt install php8.5-zip
+sudo apt install php8.4-bcmath
+sudo apt install php8.4-common
+sudo apt install php8.4-curl
+sudo apt install php8.4-exif
+sudo apt install php8.4-gd
+sudo apt install php8.4-intl
+sudo apt install php8.4-mysql
+sudo apt install php8.4-pgsql
+sudo apt install php8.4-phar
+sudo apt install php8.4-sqlite3
+sudo apt install php8.4-xml
+sudo apt install php8.4-zip
 
 sudo phpenmod mbstring
 
-sudo subl /etc/php/8.5/cli/php.ini
+sudo subl /etc/php/8.4/cli/php.ini
 
-sudo systemctl restart php8.5-fpm
+sudo systemctl restart php8.4-fpm
 
-php8.5 ~/wasp/composer/composer.phar install
+php8.4 ~/wasp/composer/composer.phar install
 ```
